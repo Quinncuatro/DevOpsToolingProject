@@ -1,7 +1,7 @@
 # DevOps Tooling Project
 
 ## Abstract
----
+
 I want to consolidate the tools we're building under a common set of languages (JavaScript/Python) and one deployment strategy (AWS Lambda). This well help us accomplish a few things:
 
 1. Since we're moving to AWS anyway, this is a good way for us to get our feet wet. We can then empower Clarity's developers to build and deploy their own tools.
@@ -9,7 +9,6 @@ I want to consolidate the tools we're building under a common set of languages (
 3. Standardizing the DevOps toolkit to a common coding and deployment practice amongst all of us will empower our team to move faster and cover each others' gaps.
 
 ## Building Blocks
----
 
 ### Infrastructure
 - API Front
@@ -27,7 +26,6 @@ I want to consolidate the tools we're building under a common set of languages (
 - Testing
 
 ## Gameplan
----
 
 ### Gobstopper
 - Add more functionality to parser
@@ -58,7 +56,6 @@ I want to consolidate the tools we're building under a common set of languages (
 - Pipe output to both S3 and our local terminals
 
 ## Various Benefits
----
 
 ### From Moving to AWS
 - Easy way to move resource-hogging scripts off our local machines.
